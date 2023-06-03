@@ -4670,7 +4670,7 @@ textarea.form-control-lg {
   --bs-alert-border-color: #2feaa8 !important;
 }
 .alert-secondary .alert-link {
-  color: #2feaa8;
+  color: #2feaa8 !important;
 }
 
 .alert-success {
