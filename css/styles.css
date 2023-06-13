@@ -6694,6 +6694,16 @@ textarea.form-control-lg {
   background-color: RGBA(33, 37, 41, var(--bs-bg-opacity, 1)) !important;
 }
 
+.carousel-dark-bg {
+  background-color: rgba(52, 58, 64, 0.5);
+  color: white; /* Replace with your desired text color */
+  display: inline-block;
+  border-radius: 5px;
+  padding-left: 10px; /* Set left padding */
+  padding-right: 10px; /* Set right padding */
+
+}
+
 .link-primary {
   color: #1e30f3 !important;
 }
